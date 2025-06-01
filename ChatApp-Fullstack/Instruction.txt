@@ -1,0 +1,14 @@
+creating axios in frontend and exporting it
+importing it in store house 
+and than using it with different state Property
+like one will store 
+1.authData
+3.islogging and isSigning for loader 
+
+
+## ChatApp
+1. Calling backend taking data through
+2. calling sockets 
+3. Call saving it in Zustand
+4. extracting data 
+
